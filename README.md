@@ -1,0 +1,1 @@
+# 27-1_emil_takirov_hw_6.py
